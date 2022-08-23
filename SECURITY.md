@@ -6,6 +6,5 @@
 | ------- | ------------------ |
 | 0.4.x   | :white_check_mark: |
 
-## Reporting a Vulnerability
-
-Please report security vulnerabilities to kriszyp@gmail.com.
+## Reporting a Vulnerabil
+www.bounty.github.com
